@@ -2,7 +2,7 @@
 File scraper designed to count words given user inputted text files in C.
 
 run using 
-$gcc -Werror -Wall -g -std=gnu99 word_count.c -o word_count
+$ gcc -Werror -Wall -g -std=gnu99 word_count.c -o word_count
 $ ./word_count
 
 OUTPUT:
